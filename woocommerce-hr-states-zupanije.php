@@ -68,5 +68,3 @@ function hr_states_woo ($states) {
 }
 
 add_filter ('woocommerce_states', 'hr_states_woo');
-=======
->>>>>>> origin/master
