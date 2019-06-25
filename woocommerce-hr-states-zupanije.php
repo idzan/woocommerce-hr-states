@@ -5,7 +5,7 @@ Plugin URI: https://github.com/idzan/woocommerce-hr-states/
 Description: HR: Dodatak za WooCommerce kojime se dodaju Hrvatske županije u listu dostupnih regija. EN: Adds Croatian States within WooCommerce Core Regions.
 Version: 1.2
 Author: Marko Idžan
-Author URI: https://idzan.com.hr
+Author URI: https://idzan.eu
 */
 
 function hr_states_woo ($states) {
